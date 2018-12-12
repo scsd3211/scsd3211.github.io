@@ -1,37 +1,43 @@
-## Welcome to GitHub Pages
+#   1. 堆栈问题
+https://blog.csdn.net/a185446828/article/details/50899887
 
-You can use the [editor on GitHub](https://github.com/scsd3211/scsd3211.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+#   2. 内存优化问题
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+    
+#   3. linux socket
+ 
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+#   4. Android 重绘、桌面图标刷新问题
 
-- Bulleted
-- List
+需要修改 Launcher实现
 
-1. Numbered
-2. List
+https://my.oschina.net/ososchina/blog/352286
+https://www.zhihu.com/question/49442960
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
+ 
+#   5.不同操作系统版本编译的软件运行情况不同，怎么处理
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/scsd3211/scsd3211.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
+#  6. 架构
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+
+
+#  7. 线程 进程间通信、进程池
+
+https://www.cnblogs.com/xh0102/p/5710074.html
+
+
+# 8.  指针问题
+
+
+# 9. C++虚函数问题
+
+
+# 10.  设计模式问题
+
